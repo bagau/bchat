@@ -1,4 +1,5 @@
-﻿<ul class="nav nav-tabs" role="tablist">
+﻿<!-- Copyright 2014 Rafis Bagautdinov -->
+<ul class="nav nav-tabs" role="tablist">
 	<? 	
 		foreach ($this->menu_array() as $menu_page => $menu_value)
 		{ ?>

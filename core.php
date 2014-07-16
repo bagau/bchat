@@ -1,4 +1,10 @@
+
+
 <? 
+/* 
+  Copyright 2014 Rafis Bagautdinov
+  http://www.apache.org/licenses/LICENSE-2.0.txt
+*/
 
 class Core
 {

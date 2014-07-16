@@ -1,5 +1,10 @@
 <?php
 
+/* 
+  Copyright 2014 Rafis Bagautdinov
+  http://www.apache.org/licenses/LICENSE-2.0.txt
+*/
+
 echo $_GET['callback'] . '(' .json_encode(
 '<script type="text/template" id="dialogTemplate">
 	<div class="dialogBlock">

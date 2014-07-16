@@ -1,3 +1,8 @@
+/* 
+  Copyright 2014 Rafis Bagautdinov
+  http://www.apache.org/licenses/LICENSE-2.0.txt
+*/
+
 var chat_base_url = 'http://adminchat/';
 var keyid = cookie();
 var to_user = 0;

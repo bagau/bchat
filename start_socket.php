@@ -1,4 +1,8 @@
 <?php
+/* 
+  Copyright 2014 Rafis Bagautdinov
+  http://www.apache.org/licenses/LICENSE-2.0.txt
+*/
 include 'websocket.php';
 
 class Start_socket extends Websocket

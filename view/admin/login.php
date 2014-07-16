@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<!-- Copyright 2014 Rafis Bagautdinov -->
+
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
