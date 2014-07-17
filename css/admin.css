@@ -1,0 +1,13 @@
+.stopSocket
+{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.login_form
+{
+	float: none!important;
+	margin: 0 auto;
+	margin-top: 200px;
+}

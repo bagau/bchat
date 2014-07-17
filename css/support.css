@@ -1,0 +1,109 @@
+.messages
+{
+	display: block;
+	width: 100%;
+	overflow: auto;
+	height: 270px;
+}
+
+.mess_item
+{
+	padding: 5px;
+	background: #eee;
+	margin-top: 5px;
+	border-bottom: 1px solid #000;
+	width: 90%;
+}
+
+.mess_item.outbox
+{
+	text-align: left;
+}
+
+.mess_item.inbox
+{
+	text-align: right;
+}
+
+.mess_item.sended
+{
+	background: #fff;
+}
+
+.dialogWindow
+{
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+.to_dialog
+{
+	background: #ccc;
+	padding: 3px;
+	color: #555;
+	text-align: right;
+	cursor: pointer;
+}
+
+.textFormWindow
+{
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+.dialog_form
+{
+	width: auto;
+	margin: 5px 10px 0 0 ;
+	display: none;
+}
+
+.dialogEnter
+{
+	width: 250px;
+	margin: 5px;
+}
+
+.dialogSubmit
+{
+	margin: 5px;
+}
+
+.stopSocket
+{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.logout
+{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.in_dialog .mess_from .mess_item
+{
+	display: none;
+}
+
+.in_dialog .mess_from .mess_item:last-child
+{
+	display: block;
+}
+
+.mess_from.hide
+{
+	display: none;
+}
+
+.login_form
+{
+	float: none!important;
+	margin: 0 auto;
+	margin-top: 200px;
+}

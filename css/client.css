@@ -1,0 +1,76 @@
+.dialogBlock
+{
+	position: fixed;
+	width: 250px;
+	height: 300px;
+	left: 0;
+	top: 50%;
+	margin-top: -100px;
+	z-index: 1000;
+}
+
+.dialogBlock div
+{
+	vertical-align: top;
+}
+
+.dialogButton
+{
+	height: 150px;
+	width: 25px;
+	display: inline-block;
+	background: green;
+	cursor: pointer;
+}
+
+.dialogWindow
+{
+	width: 200px;
+	display: none;
+	background: #fff;
+	padding: 5px;
+}
+
+.dialogWindow.open
+{
+	display: inline-block;
+}
+
+.dialogMessages
+{
+	width: 100%;
+	height: 200px;
+	overflow: auto;
+}
+
+.dialogEnter
+{
+	margin: 5px;
+	margin-left: 0;
+	width: 190px;
+}
+
+.dialogItemMessage
+{
+	padding: 5px;
+	background: #eee;
+	margin-top: 5px;
+	border-bottom: 1px solid #000;
+	width: 90%;
+}
+
+.dialogItemMessage.outbox
+{
+	text-align: left;
+}
+
+.dialogItemMessage.inbox
+{
+	text-align: right;
+}
+
+.typing
+{
+	color: #ccc;
+	text-align: center;
+}
