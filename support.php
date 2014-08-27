@@ -1,4 +1,4 @@
-<?
+<? 
 include "core.php";
 
 class Support extends Core
