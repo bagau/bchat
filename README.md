@@ -1,10 +1,7 @@
-This program is make chat between any site user and admin managers.
+# Online colsultant for any site
 
-Program init with websocket and work with it.
+Application let answer the question from the visiters on any sites. Code of application insert to any site and application will work.
 
-In time program is easy, fast, but no beautiful and admin panel is not finished.
+Application also need PHP backup.
 
-You may help me one comment about make this better, or point me to my errors. I think I have no less errors, because I have little experience in program work.
-=================
-
-Make conversation between user and manager of any site
+Used technologies is Javascript and PHP.
